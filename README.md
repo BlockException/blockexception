@@ -28,7 +28,7 @@ Sure, there's always technical stuff that's complicated - but I try to make it u
 
 ### Discord
 
-![Discord Presence](https://lanyard.cnrad.dev/api/275899954810526208?theme=dark&bg=00000000&animated=true&hideDiscrim=true&borderRadius=10)
+![Discord Presence](https://lanyard.cnrad.dev/api/1312092302348648586?theme=dark&bg=00000000&animated=true&hideDiscrim=true&borderRadius=10)
 
 ---
 
