@@ -78,11 +78,3 @@ Large project that was supposed to reach as many servers as possible. (Discontin
 German Minecraft Citybuild project that wanted to make a lot of players happy. (Temporarily discontinued)  
 - Website: [blockfunity.de](https://blockfunity.de)
 - Status: [status.blockfunity.de](https://status.blockfunity.de)
-
----
-
-### Some numbers 'cause they look cool
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlockException&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BlockException&layout=compact&theme=tokyonight&hide_border=true)
