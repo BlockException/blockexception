@@ -13,7 +13,7 @@
 
 ---
 
-### About Me
+## About Me
 
 I'm an **AI Architect and Software Developer** focused on bringing together AI, backend engineering, and scalable software architecture. I enjoy turning complex technical challenges into practical, robust solutions.
 
@@ -24,13 +24,12 @@ I'm an **AI Architect and Software Developer** focused on bringing together AI, 
 
 ---
 
-### AI & LLM Ecosystem
+## AI & LLM Ecosystem
 
 <div align="center">
 
   ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
   ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-  ![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
   ![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
   ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
   ![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=for-the-badge&logo=perplexity&logoColor=white)
@@ -40,9 +39,13 @@ I'm an **AI Architect and Software Developer** focused on bringing together AI, 
 
 </div>
 
-### Tech Stack
+---
 
-**Languages**
+## Tech Stack
+
+### Languages
+
+<div>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -56,13 +59,21 @@ I'm an **AI Architect and Software Developer** focused on bringing together AI, 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
 
-**Frameworks & Libraries**
+</div>
+
+### Frameworks & Libraries
+
+<div>
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=nodedotjs&logoColor=white)
 
-**Databases, Tools & DevOps**
+</div>
+
+### Databases, Tools & DevOps
+
+<div>
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
@@ -72,9 +83,11 @@ I'm an **AI Architect and Software Developer** focused on bringing together AI, 
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
 ![Pterodactyl](https://img.shields.io/badge/Pterodactyl-7289DA?style=flat-square&logo=pterodactyl&logoColor=white)
 
+</div>
+
 ---
 
-### Let's Connect
+## Let's Connect
 
 <div align="center">
   <a href="https://discord.com/users/1312092302348648586">
