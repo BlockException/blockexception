@@ -80,7 +80,6 @@ I'm an **AI Architect and Software Developer** focused on bringing together AI, 
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white)
-![Pterodactyl](https://img.shields.io/badge/Pterodactyl-7289DA?style=flat-square&logo=pterodactyl&logoColor=white)
 
 </div>
 
