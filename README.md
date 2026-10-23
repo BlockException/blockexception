@@ -19,8 +19,8 @@ I'm an **AI Architect and Software Developer** focused on bringing together AI, 
 
 - **AI architecture:** designing AI-powered systems and integrating modern LLMs into software.
 - **Software engineering:** 4+ years of experience building backend systems, Java plugins, and web applications.
-- **Open source:** creator of 9 public repositories and contributor to projects such as [LuckPerms](https://github.com/LuckPerms/LuckPerms/pull/4294).
-[CleanYourTV](https://github.com/Gathin23/cleanyourtv)
+- **Open source:** creator of 9 public repositories and contributor to projects such as [LuckPerms](https://github.com/LuckPerms/LuckPerms/pull/4294)
+[CleanYourTV](https://github.com/Gathin23/cleanyourtv).
 - **Engineering mindset:** clean, maintainable code is a necessity, not a luxury.
 
 ---
