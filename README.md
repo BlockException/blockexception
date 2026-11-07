@@ -2,16 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:2563EB,100:7C3AED&height=220&section=header&text=outdateelectro&fontColor=ffffff&fontSize=66&animation=fadeIn&fontAlignY=38&desc=AI%20Architect%20%7C%20Software%20Developer&descAlignY=60&descSize=20" alt="outdateelectro - AI Architect and Software Developer">
 </div>
 
-<div align="center">
-  <h3>Designing intelligent systems where AI meets reliable software engineering.</h3>
-
-  <a href="https://github.com/BlockException">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://discord.com/users/1312092302348648586">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
-  </a>
-</div>
+<p align="center"><a href="https://github.com/BlockException"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a><a href="https://discord.com/users/1312092302348648586"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a></p>
 
 ---
 
