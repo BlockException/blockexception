@@ -1,12 +1,21 @@
-"https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:2563EB,100:7C3AED&height=220&section=header&text=outdateelectro&fontColor=ffffff&fontSize=66&animation=fadeIn&fontAlignY=38&desc=AI%20Architect%20%7C%20Software%20Developer&descAlignY=60&descSize=20" alt="outdateelectro - AI Architect and Software Developer">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:2563EB,100:7C3AED&height=220&section=header&text=outdateelectro&fontColor=ffffff&fontSize=66&animation=fadeIn&fontAlignY=38&desc=AI%20Architect%20%7C%20Software%20Developer&descAlignY=60&descSize=20" alt="outdateelectro - AI Architect and Software Developer">
 </div>
 
 <div align="center">
 
   **Designing intelligent systems where AI meets reliable software engineering.**
 
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BlockException)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1312092302348648586)
+  [
+
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+](https://github.com/BlockException)
+  [
+
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+](https://discord.com/users/1312092302348648586)
 
 </div>
 
