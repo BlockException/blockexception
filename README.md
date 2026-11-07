@@ -3,20 +3,14 @@
 </div>
 
 <div align="center">
+  <h3>Designing intelligent systems where AI meets reliable software engineering.</h3>
 
-  **Designing intelligent systems where AI meets reliable software engineering.**
-
-  [
-
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
-](https://github.com/BlockException)
-  [
-
-![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-
-](https://discord.com/users/1312092302348648586)
-
+  <a href="https://github.com/BlockException">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://discord.com/users/1312092302348648586">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
 </div>
 
 ---
