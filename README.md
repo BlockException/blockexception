@@ -1,5 +1,4 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:2563EB,100:7C3AED&height=220&section=header&text=BlockException&fontColor=ffffff&fontSize=66&animation=fadeIn&fontAlignY=38&desc=AI%20Architect%20%7C%20Software%20Developer&descAlignY=60&descSize=20" alt="outdateelectro - AI Architect and Software Developer">
+"https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:2563EB,100:7C3AED&height=220&section=header&text=outdateelectro&fontColor=ffffff&fontSize=66&animation=fadeIn&fontAlignY=38&desc=AI%20Architect%20%7C%20Software%20Developer&descAlignY=60&descSize=20" alt="outdateelectro - AI Architect and Software Developer">
 </div>
 
 <div align="center">
