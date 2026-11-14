@@ -1,4 +1,4 @@
-### Hi, I'm outdateelectro 👋
+### Hi, I'm BlockException_ 👋
 
 - 🤖 AI Architect & Software Developer
 - 🛠️ 4+ years building backend systems, Java plugins, and web apps
